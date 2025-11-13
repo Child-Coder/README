@@ -3,29 +3,29 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3FA6E6&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadeep765;A+Part+Time+Developer+from+India+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/Soumyadeep765?tab=followers">
-    <img src="https://img.shields.io/github/followers/Soumyadeep765?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  <a href="https://github.com/Child-Coder?tab=followers">
+    <img src="https://img.shields.io/github/followers/Child-Coder?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Soumyadeep765">
-    <img src="https://komarev.com/ghpvc/?username=Soumyadeep765&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Child-Coder">
+    <img src="https://komarev.com/ghpvc/?username=Child-Coder&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
 </div>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Soumyadeep765&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Child-Coder&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 </div>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeep765&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadeep765&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Child-Coder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Child-Coder&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeep765&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Child-Coder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 💻 Tech Stack
@@ -46,17 +46,17 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumyadeep765&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Child-Coder&theme=react-dark&hide_border=true" width="100%"/>
 
 ## 🌟 GitHub Metrics
 
 <p align="center">
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadeep765&theme=github_dark" />
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Child-Coder&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadeep765&theme=github_dark" />
-  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadeep765&theme=github_dark" />
+  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Child-Coder&theme=github_dark" />
+  <img width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Child-Coder&theme=github_dark" />
 </p>
 
 ## 🤝 Connect With Me
@@ -66,7 +66,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-das-495339254?trk=contact-info)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/soumyadeep765)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyadeeppdas765@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://t.me/soumyadeepdas765)
+[![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://t.me/ChildCoderBd)
 
 </div>
 
